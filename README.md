@@ -1,1 +1,1 @@
-Just doing code for fun :)
+A page for my personal projects.
